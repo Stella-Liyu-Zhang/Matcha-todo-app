@@ -1,4 +1,4 @@
-# todo_manager
+# Todo app (mostly front-end). I call it Matcha.
 
 ## Project setup
 ```
